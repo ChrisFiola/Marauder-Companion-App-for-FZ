@@ -1,1 +1,1 @@
-Put your custom applications in this folder.
+Custom Marauder Companion App
