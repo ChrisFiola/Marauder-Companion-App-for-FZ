@@ -35,7 +35,6 @@ Brewfile.lock.json
 .kateconfig
 
 # legendary cmake's
-build
 CMakeLists.txt
 
 # bundle output
@@ -48,7 +47,7 @@ null.d
 # SCons
 .sconsign.dblite
 # SCons build dir
-build/
+
 
 # Toolchain
 /toolchain
